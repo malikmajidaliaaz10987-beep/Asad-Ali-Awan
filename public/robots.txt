@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.netlify/
+
+# Allow standard AI search crawlers for GEO / Generative Engine Optimization
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://asadaliawan.netlify.app/sitemap.xml

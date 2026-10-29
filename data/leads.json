@@ -1,0 +1,38 @@
+[
+  {
+    "fullName": "John Doe",
+    "email": "john@example.com",
+    "service": "Business Website Development",
+    "budget": "$1,500–$3,500",
+    "projectDescription": "Custom SaaS portal",
+    "savedAt": "2026-10-29T16:43:48.474Z"
+  },
+  {
+    "fullName": "John Doe",
+    "email": "johndoe@example.com",
+    "service": "Direct Email Inquiry",
+    "budget": "Custom Scope",
+    "projectDescription": "[Website Design Inquiry] Hello Asad, I am looking to build a corporate portfolio website for my agency.",
+    "source": "contact_page_email_form",
+    "savedAt": "2026-10-28T18:35:27.986Z"
+  },
+  {
+    "fullName": "Sarah Connor",
+    "email": "sarah@example.com",
+    "service": "AI Video Generation",
+    "budget": "$1,000+",
+    "consent": true,
+    "savedAt": "2026-10-28T18:02:01.629Z"
+  },
+  {
+    "fullName": "asad",
+    "email": "malikmajidaliaa.z10987@gmail.com",
+    "service": "AI Content Creation",
+    "budget": "Under $100",
+    "projectDescription": "uguguyguyguyg",
+    "id": "lead_1793119321823_grpb5",
+    "timestamp": "2026-10-27T16:42:01.823Z",
+    "status": "new",
+    "savedAt": "2026-10-27T16:42:16.356Z"
+  }
+]

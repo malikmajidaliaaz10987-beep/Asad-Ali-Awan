@@ -1,0 +1,12 @@
+[
+  {
+    "id": "usr_1793212535911_e4ubw",
+    "email": "testclient@example.com",
+    "displayName": "Sarah Connor",
+    "provider": "google",
+    "registeredAt": "2026-10-28T18:35:35.911Z",
+    "lastSignInAt": "2026-10-28T18:35:46.416Z",
+    "loginCount": 2,
+    "role": "user"
+  }
+]
